@@ -1,17 +1,17 @@
 {
   "name": "Nishant",
   "tagline": "DevOps & Cloud Engineer in the making ",
-  "photo": "profile.png",
-  "roll": "4447",
-  "department": "Computer Engineering",
-  "year": "2020",
-  "email": "bhattsameer4447@gmail.com",
-  "gpa": "4.00",
+  "photo": "page2.png",
+  "roll": "1",
+  "department": "Computer Science with Artificial Intelligence",
+  "year": "2025",
+  "email": "nishantkumarkharga9818@gmail.com",
+  "gpa": "3.48",
   "about": "I automate things so I don't have to do them twice, then spend three hours debugging the automation. My pipelines are green, my coffee is strong, and \"it works on my machine\" is no longer an excuse, because I put my machine in a Docker container.",
-  "skills": ["Linux", "Git", "GitHub Actions", "Docker", "Jenkins", "AWS", "CloudFormation", "Nginx", "React"],
+  "skills": ["Linux", "Git", "GitHub Actions", "MERN Stack", "Jenkins", "AWS", "CloudFormation", "Nginx", "React","Computer vision","DSA"],
   "links": {
-    "github": "https://github.com/Sammy4447",
-    "linkedin": "www.linkedin.com/in/er-sameer-bhatt-905562232"
+    "github": "https://github.com/NISHANTKHARGA",
+    "linkedin": "www.linkedin.com/in/nishant-kumar-kharga"
   },
   "quotes": [
     "Stay hungry, stay foolish.",
